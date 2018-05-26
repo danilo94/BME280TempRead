@@ -4,4 +4,6 @@
 
 - Será necessário adicionar as bibliotecas BME280 e Adafruit Unified Sensor para funcionamento correto
 
+# Esquema de ligação do circuito
+
 ![alt text](https://raw.githubusercontent.com/danilo94/BME280TempRead/master/sensor.png)
